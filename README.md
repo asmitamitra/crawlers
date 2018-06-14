@@ -1,10 +1,13 @@
 # Crawlers
 
-# Imdb.py
-Get ratings and summary of movies from Imdb
+bing_v1.py
 
-# BingWallpaper.py
-Schedule to change the desktop wallpaper from the top picture in Bing
+Downloads the bing wallpaper every day at midnight and sets it as the wallpaper.
 
-# IQuotesNotify.py
-Desktop Notification with a Quote each day.
+imdb.py
+
+Get imdb ratings and summary of any movie in terminal
+
+facts.py,quotes.py,vocab.py
+
+Displays any random fact,quote or word from a text file after every 5 minutes through desktop notification.
